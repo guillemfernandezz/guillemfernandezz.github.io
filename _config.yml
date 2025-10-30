@@ -96,4 +96,4 @@ plugins:
 
 # Cargar nuestro archivo de estilos
 site-css:
-  - "/assets/css/custom.css"
+  - "/assets/css/css/custom.css"
