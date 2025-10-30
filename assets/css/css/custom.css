@@ -2,7 +2,7 @@
 
 /* Aumentar el tamaño del avatar en la barra de navegación */
 .navbar-links .avatar-img {
-  width: 60px;       /* El tamaño original es ~30px */
-  height: 60px;      /* El tamaño original es ~30px */
-  min-width: 60px;   /* Asegurar el tamaño */
+  width: 120px;       /* El tamaño original es ~30px */
+  height: 120px;      /* El tamaño original es ~30px */
+  min-width: 120px;   /* Asegurar el tamaño */
 }
