@@ -92,8 +92,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# --- Carga de Archivos Personalizados --- #
-
 # Cargar nuestro archivo de estilos
 site-css:
-  - "/assets/css/css/custom.css"
+  - "assets/css/css/custom.css"
